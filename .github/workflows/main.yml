@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 # 将修改后的README.md自动转换为pdf文件，保存在release中
-name: test
+name: main
 
 # Controls when the workflow will run
 on:
